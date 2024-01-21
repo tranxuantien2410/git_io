@@ -17,6 +17,7 @@ int main() {
         unsigned long long ketQua = tinhGiaiThua(n);
         std::cout << "Giai thua cua " << n << " la: " << ketQua << "\n";
     }
-
+    std::cout<<"hello world";
     return 0;
+
 }
